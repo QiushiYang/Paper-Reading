@@ -1,18 +1,18 @@
-+ [ ] [Noise-Tolerant Paradigm for Training Face Recognition CNNs]
++ [ ] [Noise-Tolerant Paradigm for Training Face Recognition CNNs]  [[Paper]](https://arxiv.org/pdf/1903.10357.pdf)
 
-+ [ ] [CleanNet Transfer Learning for Scalable Image Classifier Training] (2018 CVPR)
++ [ ] [CleanNet Transfer Learning for Scalable Image Classifier Training] (2018 CVPR) [[Paper]](https://arxiv.org/pdf/1711.07131.pdf)
 
-+ [ ] [Dimensionality-Driven Learning with Noisy Labels] (2018 ICML)
++ [ ] [Dimensionality-Driven Learning with Noisy Labels] (2018 ICML) [[Paper]](https://arxiv.org/pdf/1806.02612.pdf)
 
-+ [x] [Iterative Learning with Open-set Noisy Labels] (2018 CVPR)
++ [x] [Iterative Learning with Open-set Noisy Labels] (2018 CVPR) [[Paper]](https://arxiv.org/pdf/1804.00092.pdf)
 
-+ [ ] [Training Deep Neural-Networks Using a Noise Adaptation Layer] (2017 ICLR)
++ [ ] [Training Deep Neural-Networks Using a Noise Adaptation Layer] (2017 ICLR) [[Paper]](https://openreview.net/pdf?id=H12GRgcxg)
 
-+ [ ] [Learning to Reweight Examples for Robust Deep Learning] (2018 ICML)
++ [ ] [Learning to Reweight Examples for Robust Deep Learning] (2018 ICML) [[Paper]](https://arxiv.org/pdf/1803.09050.pdf)
 
-+ [ ] [Joint Optimization Framework for Learning with Noisy Labels] (2018 CVPR)
++ [ ] [Joint Optimization Framework for Learning with Noisy Labels] (2018 CVPR) [[Paper]](https://arxiv.org/pdf/1803.11364.pdf)
 
-
++ [ ] [Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels] (2018 NIPS) [[Paper]](https://arxiv.org/pdf/1804.06872v3.pdf)
 
 
 
