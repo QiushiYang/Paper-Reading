@@ -1,2 +1,2 @@
-# Paper-Reading-
+# Paper-Reading
 Personal record of paper reading
