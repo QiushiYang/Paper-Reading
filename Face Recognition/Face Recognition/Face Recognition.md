@@ -18,7 +18,7 @@
 
 + [x] [L-softmax: Large-Margin Softmax Loss for Convolutional Neural Networks] (2016 ICML) [[Paper]](https://arxiv.org/abs/1612.02295)
 
-+ [x] [NormFace L2 Hypersphere Embedding for Face Verification]
++ [x] [NormFace L2 Hypersphere Embedding for Face Verification] [[Paper]](https://arxiv.org/abs/1704.06369)
 
 + [x] [FaceNet: A Unified Embedding for Face Recognition and Clustering] (2015 CVPR) [[Paper]](https://arxiv.org/abs/1503.03832)
 
@@ -26,7 +26,9 @@
 
 + [x] [VggFace: Deep Face Recognition] (2015 BMVC)
 
-+ [] [DeepID2: Deep Learning Face Representation by Joint Identificaiton Verfication]
++ [ ] [DeepID-Net: Deformable Deep Convolutional Neural Networks for Object Detection] (2015 CVPR) [[Paper]](https://arxiv.org/abs/1412.5661)
+
++ [ ] [DeepID2: Deep Learning Face Representation by Joint Identificaiton Verfication]
 
 + [x] [DeepID1: Deep Learning  Face Representation from Predicting 10000 Classes]
 
