@@ -14,5 +14,10 @@
 
 + [ ] [Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels] (2018 NIPS) [[Paper]](https://arxiv.org/pdf/1804.06872v3.pdf)
 
++ [x] [The Devil of Face Recognition is in the Noise] (2018 ECCV) [[Paper]](https://arxiv.org/pdf/1807.11649.pdf)
+
++ [ ] [Mentornet: Learning data-driven curriculum for very deep neural networks on corrupted labels] (2018 ICML) [[Paper]](https://arxiv.org/abs/1712.05055)
+
++ [ ] [Decoupling "when to update" from "how to update"] (2017 NIPS) [[Paper]](https://arxiv.org/abs/1706.02613)
 
 
