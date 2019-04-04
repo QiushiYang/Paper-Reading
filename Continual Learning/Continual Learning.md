@@ -16,5 +16,8 @@ Some famous papers about continual learning and catastrophic forgetting
 
 + [ ] [Overcoming catastrophic forgetting with hard attention to the task] (2018 ICML) [[Paper]](https://arxiv.org/abs/1801.01423)
 
++ [ ] [A closer look at memorization in deep networks] (2017 ICML) [[Paper]]()
+
+
 
 
