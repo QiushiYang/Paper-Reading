@@ -6,6 +6,8 @@
 
 + [x] [Iterative Learning with Open-set Noisy Labels] (2018 CVPR) [[Paper]](https://arxiv.org/pdf/1804.00092.pdf)
 
++ [ ] [Using trusted data to train deep networks on labels corrupted by severe noise] (2018 NIPS) [[Paper]]()
+
 + [ ] [Training Deep Neural-Networks Using a Noise Adaptation Layer] (2017 ICLR) [[Paper]](https://openreview.net/pdf?id=H12GRgcxg)
 
 + [ ] [Learning to Reweight Examples for Robust Deep Learning] (2018 ICML) [[Paper]](https://arxiv.org/pdf/1803.09050.pdf)
@@ -19,5 +21,33 @@
 + [ ] [Mentornet: Learning data-driven curriculum for very deep neural networks on corrupted labels] (2018 ICML) [[Paper]](https://arxiv.org/abs/1712.05055)
 
 + [ ] [Decoupling "when to update" from "how to update"] (2017 NIPS) [[Paper]](https://arxiv.org/abs/1706.02613)
+
++ [ ] [Learning from noisy large-scale datasets with minimal supervision] (2017 CVPR) [[Paper]]()
+
++ [ ] [Making deep neural networks robust to label noise: A loss correction approach] (2017 CVPR) [[Paper]]()
+
++ [ ] [Robust loss functions under label noise for deep neural networks] (2017 AAAI) [[Paper]]()
+
++ [ ] [Learning from massive noisy labeled data for image classification] [[Paper]]()
+
++ [ ] [Training convolutional networks with noisy labels] (2015 ICLR) [[Paper]]()
+
+
+## Some old papers
+
++ [ ] [Classification in the presence of label noise: a survey] (2014) [[Paper]]()
+
++ [ ] [Learning with noisy labels] (2013 NIPS) [[Paper]]()
+
++ [ ] [Classification with noisy labels by importance reweighting] [[Paper]]()
+
++ [ ] [Learning from corrupted binary labels via class-probability estimation] [[Paper]]()
+
++ [ ] [Self-paced learning for latent variable models] [[Paper]]()
+
++ [ ] [Curriculum learning] [[Paper]]()
+
++ [ ] [A closer look at memorization in deep networks] (2017 ICML) [[Paper]]()
+
 
 
