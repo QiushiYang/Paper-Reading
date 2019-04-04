@@ -1,8 +1,23 @@
-## Knowledge Distillation  
+# Review
 
-+ [x] [Distilling the Knowledge in a Neural Network] (2014 NIPS Workshop) [[Paper]](https://arxiv.org/abs/1503.02531)
++ [x] [Deep Learning] [[Paper]]
 
-## Domain Adaptation  
-+ [ ] [Deep Visual Domain Adaptation: A Survey] [[Paper]](https://arxiv.org/abs/1802.03601)  
+## Deep Learning
+
+### Network Architecture
+
+
+
+### Optimization Method
+
+
+
+### Classic Tricks
+ 
+
+
+## Machine Learning   
+TO BE READ
+
 
 
