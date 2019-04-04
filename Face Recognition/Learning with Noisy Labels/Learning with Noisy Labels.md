@@ -1,4 +1,4 @@
-+ [ ] [Noise-Tolerant Paradigm for Training Face Recognition CNNs]  [[Paper]](https://arxiv.org/pdf/1903.10357.pdf)
++ [x] [Noise-Tolerant Paradigm for Training Face Recognition CNNs]  [[Paper]](https://arxiv.org/pdf/1903.10357.pdf)
 
 + [ ] [CleanNet Transfer Learning for Scalable Image Classifier Training] (2018 CVPR) [[Paper]](https://arxiv.org/pdf/1711.07131.pdf)
 
