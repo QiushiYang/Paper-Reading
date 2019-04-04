@@ -1,22 +1,22 @@
 # Review
 
-+ [x] [Deep Learning] [[Paper]]
++ [x] [Deep Learning] [[Paper]]()
 
-## Deep Learning
+## Deep Learning  
 
-### Network Architecture
-
-
-
-### Optimization Method
+### Network Architectures  
 
 
 
-### Classic Tricks
+### Optimization Methods  
+
+
+
+### Classic Tricks  
  
 
 
-## Machine Learning   
+## Machine Learning     
 TO BE READ
 
 
