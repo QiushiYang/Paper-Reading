@@ -41,15 +41,15 @@
 
 + [ ] [Learning with noisy labels] (2013 NIPS) [[Paper]]()
 
-+ [ ] [Classification with noisy labels by importance reweighting] [[Paper]]()
++ [ ] [Classification with noisy labels by importance reweighting] (2015 TPAMI) [[Paper]](https://arxiv.org/abs/1411.7718)
 
 + [ ] [Learning from corrupted binary labels via class-probability estimation] [[Paper]]()
 
 + [ ] [Self-paced learning for latent variable models] [[Paper]]()
 
-+ [ ] [Curriculum learning] [[Paper]]()
++ [ ] [Curriculum learning] [[Paper]](https://sci-hub.tw/10.1145/1553374.1553380)
 
-+ [ ] [A closer look at memorization in deep networks] (2017 ICML) [[Paper]]()
++ [ ] [A closer look at memorization in deep networks] (2017 ICML) [[Paper]](https://arxiv.org/abs/1706.05394)
 
 
 
