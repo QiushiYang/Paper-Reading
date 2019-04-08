@@ -17,7 +17,7 @@
 
 + [x] [Improved Techniques for Training GANs] (2016) [[Paper]]()
 
-+ [x] CatGAN: [Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks] (2016 ICLR) [[Paper]]()
++ [x] CatGAN: [Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks] (2016 ICLR) [[Paper]](https://arxiv.org/abs/1511.06390)
 
 + [x] [Semi-Supervised Learning with Generative Adversarial Networks] (2016 ICML) [[Paper]]()
 
@@ -36,6 +36,11 @@
 + [ ] [Deconstructing the Ladder Network Architecture] (2015 ICML) [[Paper]]()
 
 + [x] [Semi-supervised Learning with Deep Generative Models] [[Paper]]()
+
+
+## Old Papers
+
++ [ ] Label Propagation: [Learning from labeled and unlabeled data with label propagation] (2002 CMU) [[Paper]]()
 
 
 
