@@ -6,7 +6,7 @@
 
 + [x] [Iterative Learning with Open-set Noisy Labels] (2018 CVPR) [[Paper]](https://arxiv.org/pdf/1804.00092.pdf)
 
-+ [ ] [Using trusted data to train deep networks on labels corrupted by severe noise] (2018 NIPS) [[Paper]]()
++ [ ] [Using trusted data to train deep networks on labels corrupted by severe noise] (2018 NIPS) [[Paper]](https://arxiv.org/abs/1802.05300)
 
 + [ ] [Training Deep Neural-Networks Using a Noise Adaptation Layer] (2017 ICLR) [[Paper]](https://openreview.net/pdf?id=H12GRgcxg)
 
@@ -22,15 +22,17 @@
 
 + [ ] [Decoupling "when to update" from "how to update"] (2017 NIPS) [[Paper]](https://arxiv.org/abs/1706.02613)
 
-+ [ ] [Learning from noisy large-scale datasets with minimal supervision] (2017 CVPR) [[Paper]]()
++ [ ] [Learning from noisy large-scale datasets with minimal supervision] (2017 CVPR) [[Paper]](https://arxiv.org/abs/1701.01619)
 
-+ [ ] [Making deep neural networks robust to label noise: A loss correction approach] (2017 CVPR) [[Paper]]()
++ [ ] [Making deep neural networks robust to label noise: A loss correction approach] (2017 CVPR oral) [[Paper]](https://arxiv.org/abs/1609.03683)
 
-+ [ ] [Robust loss functions under label noise for deep neural networks] (2017 AAAI) [[Paper]]()
++ [ ] [Robust loss functions under label noise for deep neural networks] (2017 AAAI) [[Paper]](https://arxiv.org/abs/1712.09482)
 
-+ [ ] [Learning from massive noisy labeled data for image classification] [[Paper]]()
++ [ ] [Learning to Learn from Noisy Labeled Data] [[Paper]](https://arxiv.org/abs/1812.05214)
 
-+ [ ] [Training convolutional networks with noisy labels] (2015 ICLR) [[Paper]]()
++ [ ] [Learning from massive noisy labeled data for image classification] (2015 CVPR) [[Paper]](https://sci-hub.tw/10.1109/CVPR.2015.7298885)
+
++ [ ] [Training convolutional networks with noisy labels] (2015 ICLR Workshop) [[Paper]](https://arxiv.org/abs/1406.2080)
 
 
 ## Some old papers
