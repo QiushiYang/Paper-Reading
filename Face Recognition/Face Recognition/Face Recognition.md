@@ -8,13 +8,17 @@
 
 ## Based on Softmax Loss
 
++ [x] [Virtual Class Enhanced Discriminative Embedding Learning] (2018 NIPS) [[Paper]](https://arxiv.org/pdf/1811.12611.pdf)
+
 + [x] [ArcFace: Additive Angular Margin Loss for Deep Face Recognition] [[Paper]](https://arxiv.org/abs/1801.07698) [[Code]](https://github.com/deepinsight/insightface)  
 
 + [x] [CosFace: Large Margin Cosine Loss for Deep Face Recognition] (2018 CVPR) [[Paper]](https://arxiv.org/abs/1801.09414)
 
 + [x] [AM-Softmax: Additive Margin Softmax for Face Veriﬁcation] [[Paper]](https://arxiv.org/abs/1801.05599)
 
-+ [ ] [ Ring loss: Convex feature normalization for face recognition] (2018 CVPR) [[Paper]](https://arxiv.org/abs/1803.00130)
++ [ ] [Ring loss: Convex feature normalization for face recognition] (2018 CVPR) [[Paper]](https://arxiv.org/abs/1803.00130)
+
++ [x] [SphereFace: Deep Hypersphere Embedding for Face Recognition] (2017 CVPR) [[Paper]](https://arxiv.org/abs/1704.08063)
 
 + [x] [L2-constrained Softmax Loss for Discriminative Face Verification] [[Paper]](https://arxiv.org/abs/1703.09507)
 
@@ -22,15 +26,17 @@
 
 + [x] [NormFace L2 Hypersphere Embedding for Face Verification] [[Paper]](https://arxiv.org/abs/1704.06369)
 
-+ [x] [DeepFace: Closing the Gap to Human-Level Performance in Face Veriﬁcation] (2014 CVPR) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf?spm=5176.100239.blogcont55892.18.pm8zm1&file=Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf)
++ [x] [DeepFace: Closing the Gap to Human-Level Performance in Face Veriﬁcation] (2014 CVPR) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf spm=5176.100239.blogcont55892.18.pm8zm1&file=Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf)
 
 + [x] [VggFace: Deep Face Recognition] (2015 BMVC)
 
 + [ ] [DeepID-Net: Deformable Deep Convolutional Neural Networks for Object Detection] (2015 CVPR) [[Paper]](https://arxiv.org/abs/1412.5661)
 
-+ [ ] [DeepID2: Deep Learning Face Representation by Joint Identificaiton Verfication]
++ [ ] DeepID2+: [Deeply learned face representations are sparse, selective, and robust] (2014) [[Paper]](https://arxiv.org/abs/1412.1265)
 
-+ [x] [DeepID1: Deep Learning  Face Representation from Predicting 10000 Classes]
++ [ ] [DeepID2: Deep Learning Face Representation by Joint Identificaiton Verfication] [[Paper]]()
+
++ [x] [DeepID1: Deep Learning  Face Representation from Predicting 10000 Classes] [[Paper]]()
 
 
 
