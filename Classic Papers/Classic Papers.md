@@ -45,6 +45,10 @@ Devices)
 
 ### Classic Tricks  
 
++ [ ] Relu: [Deep Sparse Rectifier Neural Networks] (2011) [[Paper]]()
+
++ [ ] PrRelu: 
+
 + [ ] BN: [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift] [[Paper]](https://arxiv.org/abs/1502.03167)
 
 + [ ] GN: 
