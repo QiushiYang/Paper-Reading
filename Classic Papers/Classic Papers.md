@@ -37,6 +37,10 @@ Devices)
 
 + [ ] MobileNet-v2: [Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation] [[Paper]](https://arxiv.org/abs/1801.04381v4)
 
++ [x] FCN: [Fully Convolutional Networks for Semantic Segmentation] (2015 CVPR) [[Paper]](https://arxiv.org/abs/1411.4038) [[Code]](https://github.com/shelhamer/fcn.berkeleyvision.org)
+
++ [ ] U-net: [U-Net: Convolutional Networks for Biomedical Image Segmentation] (2015 MICCAI) [[Paper]](https://arxiv.org/abs/1505.04597)
+
 ### Optimization Methods  
 
 + [ ] SGD: 
