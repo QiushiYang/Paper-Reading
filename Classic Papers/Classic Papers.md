@@ -30,6 +30,12 @@
 
 + [ ] SqueezeNet: [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size] (2016 ICLR) [[Paper]](https://arxiv.org/abs/1602.07360)
 
++ [ ] ShuffleNet: [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices] [[Paper]](ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile
+Devices)
+
++ [ ] MobileNet-v1: [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications] [[Paper]](https://arxiv.org/abs/1704.04861)
+
++ [ ] MobileNet-v2: [Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation] [[Paper]](https://arxiv.org/abs/1801.04381v4)
 
 ### Optimization Methods  
 
