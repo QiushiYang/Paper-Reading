@@ -64,7 +64,14 @@
 
 ## Old Papers
 
++ [ ] [Active Learning Literature Survey] (2010)
+
++ [ ] [Semi-Supervised Learning on Riemannian Manifolds] (2004)
+
 + [ ] Label Propagation: [Learning from labeled and unlabeled data with label propagation] (2002 CMU) [[Paper]]()
+
++ [ ] Co-Training: [Combining Labeled and Unlabeled Data with Co-Training] (1998)
+
 
 
 
