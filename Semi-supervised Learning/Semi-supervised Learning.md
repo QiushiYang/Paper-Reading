@@ -1,6 +1,6 @@
 ## Review
 
-+ [x] [Semi-Supervised Learning Literature Survey] [[Paper]]()
++ [x] [Semi-Supervised Learning Literature Survey] (2008) [[Paper]]()
 
 
 ## Recent Papers
