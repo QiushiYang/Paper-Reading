@@ -47,6 +47,8 @@ Devices)
 
 + [ ] Adam:
 
++ [ ] Warm-SGD: [Sgdr: Stochastic gradient descent with warm restarts] (2017 ICLR) [[Paper]]()
+
 ### Classic Tricks  
 
 + [ ] Relu: [Deep Sparse Rectifier Neural Networks] (2011) [[Paper]]()
